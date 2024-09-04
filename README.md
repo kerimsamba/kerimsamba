@@ -1,4 +1,4 @@
-I'm Kerim, a junior full stack developer from Scotland currently using Angular, Typescript, C# and Oracle for the day job and Next.js for my personal projects.
+I'm Kerim, a junior full stack developer from Scotland, currently using Angular, Typescript, C# and Oracle for the day job and Next.js with Firebase for my personal projects.
 
 
 
